@@ -1,0 +1,20 @@
+{
+  "produto": "ConferAfast",
+  "versao": "1.1.1",
+  "data": "2026-09-01",
+  "titulo": "ConferAfast 1.1.1",
+  "descricao": [
+    "Ajustes e melhorias nas consultas de concomitância.",
+    "Tratamento de férias canceladas ou com convocação parcial/total.",
+    "Tratamento de licença-prêmio cancelada ou parcialmente usufruída.",
+    "Novo relatório de afastamentos com dados obtidos diretamente do SIP.",
+    "Agrupamento de afastamentos por trabalhador e família de CID.",
+    "Consideração de CIDs iguais e distintos pertencentes à mesma família.",
+    "Melhorias para utilização do banco SQLite em ambiente com mais de uma estação.",
+    "Ajustes gerais de estabilidade e compatibilidade."
+  ],
+  "arquivo": "ConferAfast_Setup_1.1.1.exe",
+  "download": "https://github.com/ifsales/ConferAfast-Updates/releases/download/v1.1.1/ConferAfast_Setup_1.1.1.exe",
+  "sha256": "c854fde0ae22a48de53271fac91cf502ded88ac75d3296cc5b05aaddb558b1c3",
+  "obrigatoria": false
+}
