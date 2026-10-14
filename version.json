@@ -1,20 +1,28 @@
 {
-  "produto": "ConferAfast",
-  "versao": "1.1.1",
-  "data": "2026-09-01",
-  "titulo": "ConferAfast 1.1.1",
-  "descricao": [
-    "Ajustes e melhorias nas consultas de concomitância.",
-    "Tratamento de férias canceladas ou com convocação parcial/total.",
-    "Tratamento de licença-prêmio cancelada ou parcialmente usufruída.",
-    "Novo relatório de afastamentos com dados obtidos diretamente do SIP.",
-    "Agrupamento de afastamentos por trabalhador e família de CID.",
-    "Consideração de CIDs iguais e distintos pertencentes à mesma família.",
-    "Melhorias para utilização do banco SQLite em ambiente com mais de uma estação.",
-    "Ajustes gerais de estabilidade e compatibilidade."
-  ],
-  "arquivo": "ConferAfast_Setup_1.1.1.exe",
-  "download": "https://github.com/ifsales/ConferAfast-Updates/releases/download/v1.1.1/ConferAfast_Setup_1.1.1.exe",
-  "sha256": "c854fde0ae22a48de53271fac91cf502ded88ac75d3296cc5b05aaddb558b1c3",
-  "obrigatoria": false
+    "produto":  "ConferAfast",
+    "versao":  "1.1.1.1",
+    "data":  "2026-10-14",
+    "titulo":  "ConferAfast 1.1.1.1",
+    "descricao":  [
+                      "Novo visual em todas as telas, com escolha de tema claro ou escuro",
+                      "Inserção no SIP: a situação de cada afastamento fica correta logo após a gravação",
+                      "Correção do erro \"Column unknown\" na análise de concomitância",
+                      "Concomitância: afastamentos ainda em aberto no SIP passam a ser considerados",
+                      "Sem travamentos ao clicar duas vezes durante uma operação",
+                      "Datas do arquivo TXT sempre com ano de 4 dígitos",
+                      "Arquivos TXT salvos em UTF-8 importados corretamente",
+                      "Login mais seguro contra tentativas repetidas",
+                      "O bloqueio por inatividade espera a operação em andamento terminar",
+                      "Banco local mais rápido e mais seguro em rede",
+                      "Chave do banco portátil e uso em mais de uma estação"
+                  ],
+    "arquivo":  "ConferAfast_Setup_1.1.1.1.exe",
+    "download":  "https://github.com/ifsales/ConferAfast-Updates/releases/download/v1.1.1.1/ConferAfast_Setup_1.1.1.1.exe",
+    "sha256":  "56bdfa77ff345a76b77ee7c258d66c7aff2370ac2f277e693b4f4544e6ab40b5",
+    "portable":  {
+                     "arquivo":  "ConferAfast_Portable_1.1.1.1.zip",
+                     "download":  "https://github.com/ifsales/ConferAfast-Updates/releases/download/v1.1.1.1/ConferAfast_Portable_1.1.1.1.zip",
+                     "sha256":  "2428e6609330d56084b0f2f186aab8d5aaffe29c867357b5a7c539981f4096f2"
+                 },
+    "obrigatoria":  false
 }
