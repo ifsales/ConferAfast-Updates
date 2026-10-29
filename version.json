@@ -1,20 +1,19 @@
 {
     "produto":  "ConferAfast",
-    "versao":  "1.1.1.2",
-    "data":  "2026-10-14",
-    "titulo":  "ConferAfast 1.1.1.2",
+    "versao":  "1.1.2",
+    "data":  "2026-10-29",
+    "titulo":  "ConferAfast 1.1.2",
     "descricao":  [
-                      "Análise de afastamentos muito mais rápida",
-                      "Correção do erro \"Column unknown\" na análise de concomitância",
-                      "Usuário técnico de suporte"
+                      "Conexão com o SIP pela API",
+                      "Pacote IFS no servidor do SIP"
                   ],
-    "arquivo":  "ConferAfast_Setup_1.1.1.2.exe",
-    "download":  "https://github.com/ifsales/ConferAfast-Updates/releases/download/v1.1.1.2/ConferAfast_Setup_1.1.1.2.exe",
-    "sha256":  "5ce6b8fcac1980cfd1cce0f707a691ea23ed2f81afe00171e2c8b6c8e08f28c9",
+    "arquivo":  "ConferAfast_Setup_1.1.2.exe",
+    "download":  "https://github.com/ifsales/ConferAfast-Updates/releases/download/v1.1.2/ConferAfast_Setup_1.1.2.exe",
+    "sha256":  "969f5d97b0cba515d2d5eb563728ed909fd5497bb6025e1fb78d5fb3575989a8",
     "portable":  {
-                     "arquivo":  "ConferAfast_Portable_1.1.1.2.zip",
-                     "download":  "https://github.com/ifsales/ConferAfast-Updates/releases/download/v1.1.1.2/ConferAfast_Portable_1.1.1.2.zip",
-                     "sha256":  "c5afc49d2409ef4c669b23dab380ca0b6d53ee16d27d57fce429e30be95bdc69"
+                     "arquivo":  "ConferAfast_Portable_1.1.2.zip",
+                     "download":  "https://github.com/ifsales/ConferAfast-Updates/releases/download/v1.1.2/ConferAfast_Portable_1.1.2.zip",
+                     "sha256":  "e97d9d63e48017669475a4f92ce2fce3cbbfb81eeb1f7cedee5c3396ee2e68d4"
                  },
     "obrigatoria":  false
 }
